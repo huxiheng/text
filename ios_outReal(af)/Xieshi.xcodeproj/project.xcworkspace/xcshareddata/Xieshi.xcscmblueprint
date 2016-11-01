@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ace21002-8e90-514d-bcd2-da6020e90109",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f36e06be-f1da-964f-9de1-30e5ff52de08" : {
+
+    },
+    "ace21002-8e90-514d-bcd2-da6020e90109" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f36e06be-f1da-964f-9de1-30e5ff52de08" : 0,
+    "ace21002-8e90-514d-bcd2-da6020e90109" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ABACD112-A8D6-4CE6-94BF-CE2C40D5E5D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f36e06be-f1da-964f-9de1-30e5ff52de08" : "",
+    "ace21002-8e90-514d-bcd2-da6020e90109" : "XSIOSEx"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Xieshi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/ios_out\/Xieshi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/42.51.154.221\/svn\/XSIOSEx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ace21002-8e90-514d-bcd2-da6020e90109"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/103.22.191.83\/svn\/OAJDIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f36e06be-f1da-964f-9de1-30e5ff52de08"
+    }
+  ]
+}

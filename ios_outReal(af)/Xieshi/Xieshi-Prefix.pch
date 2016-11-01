@@ -1,0 +1,29 @@
+//
+// Prefix header for all source files of the 'LSTemplate' target in the 'LSTemplate' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+	#import "constance.h"
+    #import "LSLab.h"
+    #import "AFNet.h"
+    #import "UIView+Sizes.h"
+    #import "SVProgressHUD.h"
+    #import "LoginUtil.h"
+    #import "UIImageView+WebCache.h"
+#import "NSDictionary+XH.h"
+#import "AppMacro.h"
+    
+//#define JSON_PARAM(__params) @{@"param":[__params JSONRepresentation]}
+#define JSON_PARAM(__params) [NSDictionary returnDictoryParams:__params]
+
+#endif
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABACD112-A8D6-4CE6-94BF-CE2C40D5E5D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xieshi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ace21002-8e90-514d-bcd2-da6020e90109</key>
+		<string>https://42.51.154.221/svn/XSIOSEx</string>
+		<key>f36e06be-f1da-964f-9de1-30e5ff52de08</key>
+		<string>https://103.22.191.83/svn/OAJDIOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/ios_out/Xieshi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ace21002-8e90-514d-bcd2-da6020e90109</key>
+		<string>../../../..</string>
+		<key>f36e06be-f1da-964f-9de1-30e5ff52de08</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ace21002-8e90-514d-bcd2-da6020e90109</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f36e06be-f1da-964f-9de1-30e5ff52de08</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ace21002-8e90-514d-bcd2-da6020e90109</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XSIOSEx</string>
+		</dict>
+	</array>
+</dict>
+</plist>
